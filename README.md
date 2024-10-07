@@ -1,5 +1,3 @@
-# Host-it Website
-
 Host-it is a web hosting service landing page that displays the company's services, contact details, and basic information. It is built using HTML, CSS, and Bootstrap for responsiveness.
 
 ## Features
