@@ -18,7 +18,7 @@ Host-it is a web hosting service landing page that displays the company's servic
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - [Bootstrap 4](https://getbootstrap.com/)
 - Google Fonts (Roboto)
