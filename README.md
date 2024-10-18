@@ -1,5 +1,6 @@
-Host-it is a web hosting service landing page that displays the company's services, contact details, and basic information. It is built using HTML, CSS, and Bootstrap for responsiveness.
+# Host-it Web Hosting Service
 
+This repository contains the source code for **Host-it**, a fictional web hosting service website. The site is designed to showcase various hosting services such as Shared Hosting, Dedicated Hosting, VPS Hosting, and more. It includes pricing plans, customer testimonials, and contact information.
 ## Features
 
 - Responsive design
@@ -17,11 +18,11 @@ Host-it is a web hosting service landing page that displays the company's servic
 
 ## Technologies Used
 
-- HTML5
-- CSS
-- JavaScript
-- [Bootstrap 4](https://getbootstrap.com/)
-- Google Fonts (Roboto)
+- **HTML5**: Markup language used for structuring the content of the website.
+- **CSS3**: For styling and making the site responsive.
+- **Bootstrap**: Used to make the website mobile-friendly and responsive.
+- **JavaScript**: For basic interactivity and functionality.
+- **Google Fonts**: Custom fonts from Google Fonts.
 
 ## File Structure
 
@@ -46,3 +47,9 @@ Host-it is a web hosting service landing page that displays the company's servic
 ├── price.html               # Pricing page
 ├── contact.html             # Contact Us page
 └── README.md                # Project documentation
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Vikas2604/Host-it.git
