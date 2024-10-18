@@ -47,9 +47,3 @@ This repository contains the source code for **Host-it**, a fictional web hostin
 ├── price.html               # Pricing page
 ├── contact.html             # Contact Us page
 └── README.md                # Project documentation
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vikas2604/Host-it.git
